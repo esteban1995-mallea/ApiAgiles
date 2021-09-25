@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 //Configurando la conexion para MongoDB, Debemos indicar el puerto y la IP de nuestra BD
 
-const uri = "mongodb+srv://Mallea95:g85FX4xTNPlajOgd@cluster0.ffbri.gcp.mongodb.net/agile?retryWrites=true&w=majority";
+const uri = "ingresar ui de mongo aqui conexxion a bd agile";
 
 mongoose.connect(uri, {
   useNewUrlParser: true,
